@@ -1,5 +1,9 @@
 <html>
-<head></head>
-<body>
-</body>
+  <head
+    <title> Заголовок страницы </title> 
+  </head>
+  <body>
+    <h1> Заголовок страницы </h1>
+    <p> Текст </p>
+  </body>
 </html>
